@@ -13,7 +13,7 @@ const HomePage: React.FC = () => {
   const categories = [
     { 
       name: 'Kitchen', 
-      image: 'https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.elledecor.com%2Fdesign-decorate%2Froom-ideas%2Fg38%2Fkitchen-island-inspiration%2F&psig=AOvVaw1NDKlnxi1akycAH14RbCwb&ust=1748022196115000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPiEv6LQt40DFQAAAAAdAAAAABAE',
+      image: 'https://hips.hearstapps.com/hmg-prod/images/edc100124gambrel-006-66e0bc34ac150.jpg?crop=0.688xw:1.00xh;0.276xw,0&resize=1120:*',
       description: 'Premium cookware, cutlery and kitchen gadgets',
       count: 24
     },
