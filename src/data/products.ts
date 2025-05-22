@@ -31,11 +31,11 @@ export const products: Product[] = [
     discount: 23,
     rating: 4.8,
     reviewCount: 254,
-    image: "https://images.pexels.com/photos/4226894/pexels-photo-4226894.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    image: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.homedepot.com%2Fb%2FKitchen%2FN-5yc1vZar4i&psig=AOvVaw1NDKlnxi1akycAH14RbCwb&ust=1748022196115000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPiEv6LQt40DFQAAAAAdAAAAABAK",
     images: [
-      "https://images.pexels.com/photos/4226894/pexels-photo-4226894.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-      "https://images.pexels.com/photos/6996168/pexels-photo-6996168.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-      "https://images.pexels.com/photos/6996166/pexels-photo-6996166.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F20-minimalist-mediterranean-kitchen-design-elements-ideas--824018063057901483%2F&psig=AOvVaw1NDKlnxi1akycAH14RbCwb&ust=1748022196115000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPiEv6LQt40DFQAAAAAdAAAAABAe",
+      "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Flifestyle%2Ftravel%2F23-mediterranean-kitchens-the-essence-of-coastal-charm%2Fss-AA1tizOr&psig=AOvVaw1NDKlnxi1akycAH14RbCwb&ust=1748022196115000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPiEv6LQt40DFQAAAAAdAAAAABAo",
+      "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.houzz.co.nz%2Fphotos%2Ffrench-provincial-kitchen-phvw-vp~7640539&psig=AOvVaw1NDKlnxi1akycAH14RbCwb&ust=1748022196115000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPiEv6LQt40DFQAAAAAdAAAAABAy"
     ],
     description: "This premium kitchen knife set includes 8 professional-grade knives made with high-carbon stainless steel for precision cutting. Each knife features an ergonomic handle for comfortable grip and control.",
     features: [
